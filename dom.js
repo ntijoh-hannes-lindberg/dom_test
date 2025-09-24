@@ -45,4 +45,7 @@ function addItem(e) {
     list.appendChild(newLi)
     
     deleteButton.addEventListener('click', deleteItem)
+
 }
+let testing = "testing"
+let cherrypick;
