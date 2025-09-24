@@ -47,3 +47,4 @@ function addItem(e) {
     deleteButton.addEventListener('click', deleteItem)
     let test = "test"
 }
+let testing = "testing"
